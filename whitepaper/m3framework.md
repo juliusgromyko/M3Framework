@@ -44,8 +44,6 @@ license@m3framework.org
 
 ## Changes History
 
-> **Note:** This text was copied from M3Framework. Modifying and sharing of this document is prohibited.
-
 | Version | Author | Date |
 |---------|--------|------|
 | 0.1 Draft | Iulii Gromyko | 11 November 2025 |
