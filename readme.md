@@ -12,7 +12,7 @@ This repository hosts the source documentation for the standard, allowing the co
 
 ## 📖 About the Framework
 
-Traditional standards like ISO 27001 or NIST are invaluable "maps," but they often fail to provide a "vehicle" for execution in resource-constrained environments. They tell you *what* to do, but not *how* to do it with a lean team.
+Traditional standards like ISO 27001, ISO 42001 or NIST are invaluable "maps," but they often fail to provide a "vehicle" for execution in resource-constrained environments. They tell you *what* to do, but not *how* to do it with a lean team.
 
 **M3 Framework operationalizes Zero Trust and Compliance through a continuous cycle:**
 
