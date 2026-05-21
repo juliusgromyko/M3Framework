@@ -1,38 +1,130 @@
-M3 FRAMEWORK LICENSE AGREEMENT
+M3 FRAMEWORK — OPEN SOURCE LICENSE
+====================================
 
-Version 1.0
-Copyright © 2025 Iulii Gromyko. All rights reserved.
+Copyright (c) 2025-2026 Iulii Gromyko (Julius Gromyko).
 
-This License Agreement ("Agreement") governs the use, reproduction, and distribution of the M3 Framework documentation, methodology, and associated materials ("The Standard") hosted in this repository and on m3framework.org.
+The M3 Framework is open source and free for any use — including
+unrestricted commercial use — under the dual license described below.
 
-By accessing, reading, or using The Standard, you agree to be bound by the terms of this Agreement.
 
-1. GRANT OF LICENSE FOR INTERNAL USE
-Subject to the terms and conditions of this Agreement, the Licensor grants you a non-exclusive, non-transferable, royalty-free license to:
-   (a) Download, read, and reproduce The Standard for educational purposes.
-   (b) Implement the methodology described in The Standard within your own organization (or personal projects) for the purpose of improving security, compliance, and AI governance.
-   (c) Modify and adapt The Standard solely for internal use within your organization.
-   (d) Create forks of this repository for the purpose of submitting contributions (Pull Requests) back to the original repository.
+1. SCOPE
+--------
 
-2. RESTRICTIONS ON COMMERCIAL USE
-You are strictly PROHIBITED from using The Standard for commercial gain without a separate commercial license. Specifically, you may NOT:
-   (a) Offer paid consulting, auditing, implementation, or advisory services where The Standard constitutes the primary basis of the service.
-   (b) Market, sell, or distribute software, training courses, or certification programs based on The Standard.
-   (c) Claim to be an "Authorized," "Certified," or "Official" M3 Framework partner or provider without written permission.
+This repository contains two kinds of materials:
 
-3. RESTRICTIONS ON REDISTRIBUTION
-You may not:
-   (a) Host, display, or redistribute substantial portions of The Standard on public websites, platforms, or repositories other than for the purpose of contributing to the official repository.
-   (b) Publish modified versions of The Standard under a different name or brand ("White labeling").
+  (A) THE STANDARD — the M3 Framework whitepaper, methodology text,
+      diagrams, mappings, matrices in human-readable form (Markdown,
+      PDF, images, documentation).
 
-4. CONTRIBUTIONS
-By submitting feedback, edits, or code (Pull Requests) to this repository, you agree that your contributions are voluntarily given and you grant the Project Owner a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to use, reproduce, modify, and distribute your contributions as part of The Standard.
+  (B) THE CODE & DATA ARTIFACTS — machine-readable files such as CSV
+      annexes, JSON/YAML configurations, policy templates, scripts,
+      and any source code in this repository.
 
-5. NO WARRANTY
-THE STANDARD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE STANDARD OR THE USE OR OTHER DEALINGS IN THE STANDARD.
 
-6. TRADEMARKS
-This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of The Standard.
+2. LICENSE FOR THE STANDARD (A)
+-------------------------------
 
-7. COMMERCIAL INQUIRIES
-To obtain a license for commercial use (consulting, training, resale), please contact the author via m3framework.org.
+The Standard is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to:
+
+  - SHARE — copy and redistribute the material in any medium or format.
+  - ADAPT — remix, transform, and build upon the material for any
+    purpose, including commercial.
+
+Under the following terms:
+
+  - ATTRIBUTION — You must give appropriate credit ("M3 Framework by
+    Julius Gromyko, https://m3framework.org"), provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+
+3. LICENSE FOR THE CODE & DATA ARTIFACTS (B)
+--------------------------------------------
+
+All code, scripts, CSV annexes, JSON/YAML files, and policy templates
+are licensed under the Apache License, Version 2.0.
+
+Full license text: https://www.apache.org/licenses/LICENSE-2.0
+
+In short, the Apache 2.0 license grants you a perpetual, worldwide,
+non-exclusive, royalty-free, irrevocable license to use, reproduce,
+modify, distribute, and sublicense the work, including for commercial
+purposes, with an explicit grant of any patent rights necessary to
+exercise that license.
+
+
+4. EXPLICITLY PERMITTED USES
+----------------------------
+
+To remove any ambiguity, the following uses are explicitly permitted
+without any further permission, payment, or notification:
+
+  (a) Internal implementation of the M3 Framework inside any
+      organization, of any size, for any purpose.
+  (b) Paid consulting, advisory, audit, training, and implementation
+      services based on the M3 Framework.
+  (c) Selling software, SaaS products, courses, books, or other
+      commercial offerings that incorporate, reference, or implement
+      the M3 Framework.
+  (d) Creating and distributing derivative works, translations,
+      adaptations, and forks under any name, including under a
+      different brand.
+  (e) Issuing your own attestations, certifications, or compliance
+      statements that reference the M3 Framework, provided you do not
+      falsely claim official endorsement by the original author (see
+      Section 5 on trademarks).
+
+
+5. TRADEMARKS
+-------------
+
+The names "M3 Framework", "Mount-Monitor-Manage", and the associated
+logos and trust marks remain trademarks of Julius Gromyko. This
+license grants no rights to use these trademarks beyond what is
+required for reasonable and customary use to describe the origin of
+the work and to comply with the attribution requirement of CC BY 4.0.
+
+You may say: "Compatible with the M3 Framework", "Based on the M3
+Framework", or "Implements the M3 Framework".
+
+You may NOT say: "Official M3 Framework partner", "M3 Certified",
+or use any wording that falsely implies endorsement or affiliation,
+unless you have a separate written agreement.
+
+
+6. CONTRIBUTIONS
+----------------
+
+By submitting a contribution (pull request, issue, patch, or any
+other material) to this repository, you agree that your contribution
+is provided under the same dual license described above (CC BY 4.0
+for documentation, Apache 2.0 for code and data artifacts).
+
+
+7. NO WARRANTY
+--------------
+
+THE M3 FRAMEWORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+FRAMEWORK OR THE USE OR OTHER DEALINGS WITH IT.
+
+
+8. CONTACT
+----------
+
+Questions, partnership opportunities, or anything else:
+hello@m3framework.org / julius@gromy.co / https://m3framework.org

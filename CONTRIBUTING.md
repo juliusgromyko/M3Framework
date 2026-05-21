@@ -41,9 +41,9 @@ We follow the standard GitHub "Fork & Pull" workflow:
 
 By submitting a Pull Request or other contribution to this repository, you acknowledge and agree that:
 
-1.  **License:** Your contribution will be licensed under the project's existing [LICENSE](LICENSE) (Proprietary / Open for Internal Use).
+1.  **License:** Your contribution will be released under the project's open-source [LICENSE](LICENSE) — **CC BY 4.0** for documentation (the standard text) and **Apache License 2.0** for code, CSV annexes, and templates.
 2.  **Rights:** You represent that you have the right to submit the contribution and that it does not violate any third-party intellectual property rights.
-3.  **Assignment:** You grant the project maintainers a perpetual, irrevocable, non-exclusive right to use, modify, and distribute your contribution as part of the M3 Framework.
+3.  **Patent Grant (code only):** For any code or data artifact you contribute, you grant the project and its users the patent license described in Section 3 of the Apache License 2.0.
 
 ---
 

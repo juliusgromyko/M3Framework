@@ -1,12 +1,13 @@
 # M3 Framework: Open Compliance Standard
 
-[![License: Proprietary / Open for Internal Use](https://img.shields.io/badge/License-Open%20for%20Internal%20Use-blue.svg)](#license)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Code License: Apache 2.0](https://img.shields.io/badge/Code%20License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)](#)
 [![Website](https://img.shields.io/badge/Website-m3framework.org-purple.svg)](https://m3framework.org)
 
 **M3 Framework (Mount-Monitor-Manage)** is a pragmatic, action-first security and AI governance standard designed specifically for Small and Medium Businesses (SMBs), Fractional CISOs, and Agile teams.
 
-This repository hosts the source documentation for the standard, allowing the community to propose improvements, clarifications, and updates to keep pace with the rapidly evolving landscape of AI and Cybersecurity regulations (EU AI Act, GDPR, DORA).
+This repository hosts the source documentation for the standard. The community is welcome to propose improvements, clarifications, and updates to keep pace with the rapidly evolving landscape of AI and Cybersecurity regulations (EU AI Act, GDPR, DORA).
 
 ---
 
@@ -47,30 +48,42 @@ We are looking for:
 * Improvements to the Tooling Matrix.
 * New policy templates.
 
-### Contribution Guidelines
+### Contribution Workflow
 1.  **Fork** this repository.
 2.  Create a new **Branch** for your changes (`git checkout -b feature/improved-dlp-section`).
 3.  **Commit** your changes. Please ensure your additions align with the "Pragmatic & Low-Friction" philosophy of M3.
 4.  **Push** to your branch and submit a **Pull Request**.
 
-*Note: By submitting a PR, you agree that your contributions become part of the standard and are subject to the project's license terms.*
+*Note: By submitting a PR, you agree that your contribution is released under the same open-source license as the rest of the project (CC BY 4.0 for documentation, Apache 2.0 for code and data artifacts).*
 
 ---
 
-## ⚖️ License & Usage Terms
+## ⚖️ License — 100% Open Source
 
-**The M3 Framework is free for internal use but protected against commercial exploitation.**
+**M3 Framework is fully open source and free for any use — including unrestricted commercial use.**
 
-### ✅ Permitted Use
-* **Internal Implementation:** You are free to use, fork, and adapt this framework within your organization to improve your own security and compliance posture.
-* **Community Contribution:** You may propose changes to the standard via GitHub Pull Requests.
+| What | License |
+|---|---|
+| The Standard (whitepaper, methodology, diagrams, mappings) | [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
+| Code, CSV annexes, templates, scripts | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
 
-### ❌ Prohibited Use (Without Permission)
-* **Commercial Resale:** You may not sell the framework, its text, or derivative products.
-* **Commercial Consulting:** You may not use this framework as the primary basis for paid consulting, auditing, or implementation services for third parties without becoming a certified partner.
-* **Rebranding:** You may not publish this standard under a different name or claim authorship.
+### ✅ Explicitly allowed — no permission, no royalties
 
-*For commercial licensing, partnership inquiries, or to become a certified M3 consultant, please contact us via [m3framework.org](https://m3framework.org).*
+* **Use internally** in any organization, of any size, for any purpose.
+* **Sell consulting, audits, training, and implementation services** based on M3. Keep 100% of the revenue.
+* **Build commercial products** (SaaS, software, courses, books) that incorporate, reference, or implement M3.
+* **Modify, translate, fork, and redistribute** under any name, including a different brand.
+* **Issue your own attestations or compliance statements** that reference M3.
+
+### 🪪 The only requirement: attribution
+
+Credit the M3 Framework by Julius Gromyko ([m3framework.org](https://m3framework.org)), link to the license, and indicate if you made changes. A line like *"Based on the M3 Framework (m3framework.org), CC BY 4.0"* is enough.
+
+### 🏷️ Trademarks
+
+The names **"M3 Framework"** and **"Mount-Monitor-Manage"**, and the associated logos, remain trademarks of Julius Gromyko. You can freely say *"Compatible with the M3 Framework"*, *"Based on the M3 Framework"*, or *"Implements the M3 Framework"*. Please don't claim *"Official M3 Framework partner"* or *"M3 Certified"* without a separate written agreement.
+
+Full legal text: [LICENSE](LICENSE).
 
 ---
 
@@ -78,6 +91,7 @@ We are looking for:
 
 * **Official Website:** [m3framework.org](https://m3framework.org)
 * **Primary Author:** [Julius Gromyko](https://github.com/juliusgromyko)
+* **Optional Partner Program:** [m3framework.org/partnership.html](https://m3framework.org/partnership.html)
 
 ---
-*© 2025 Julius Gromyko. All Rights Reserved.*
+*© 2025-2026 Julius Gromyko. Released to the community as open source.*

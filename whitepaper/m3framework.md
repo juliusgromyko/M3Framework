@@ -7,38 +7,46 @@ First Edition 2025-12
 White Paper
 
 M3Framework.org  
-© 2025 Iulii Gromyko. All rights reserved.
+© 2025-2026 Iulii Gromyko. Released to the community as open source.
 
 ---
 
 ## Legal Notice & Licensing
 
-The M3 Framework is an Open Compliance Standard hosted at m3framework.org
+The M3 Framework is a fully open-source compliance standard hosted at m3framework.org.
 
-### Permitted Use (Internal)
+### Open Source License
 
-This White Paper and the methodology described herein are provided free of charge for internal use only. Organisations and individuals are granted a non-exclusive license to implement the M3 Framework within their own organisation operations to improve security, AI governance, and regulatory compliance.
+This White Paper and the methodology described herein are released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** — <https://creativecommons.org/licenses/by/4.0/>.
 
-### Restrictions on Commercial Exploitation
+The accompanying code, CSV annexes, JSON/YAML files, and policy templates in the official repository are released under the **Apache License, Version 2.0** — <https://www.apache.org/licenses/LICENSE-2.0>.
 
-Commercial use of this framework by third parties outside of their own organisation is strictly prohibited without a separate commercial license. You may NOT:
+### Explicitly Permitted (No Permission, No Royalties)
 
-- Offer paid consulting, auditing, or implementation services where the M3 Framework constitutes the primary methodology.
-- Market, sell, or distribute derivative products, training courses, certification programs, or software based on this document.
-- Use the "M3 Framework" trademark to endorse third-party services without written permission.
+You are free to:
 
-### Distribution & Modification
+- **Use** the M3 Framework internally in any organisation, of any size, for any purpose.
+- **Sell** paid consulting, auditing, training, and implementation services based on the M3 Framework. Keep 100% of the revenue.
+- **Build commercial products** (SaaS, software, courses, books) that incorporate, reference, or implement the M3 Framework.
+- **Modify, translate, fork, and redistribute** this document and its derivatives, including under a different name or brand.
+- **Issue your own attestations or compliance statements** that reference the M3 Framework.
 
-Reproduction, translation, or public redistribution of this document (in whole or in substantial part) is prohibited, except for the purpose of contributing to the official repository via GitHub.
+### The Only Requirement: Attribution
+
+Give appropriate credit to the M3 Framework by Julius Gromyko (m3framework.org), link to the license, and indicate if you made changes. A simple line such as *"Based on the M3 Framework (m3framework.org), CC BY 4.0"* satisfies this requirement.
+
+### Trademarks
+
+The names **"M3 Framework"** and **"Mount-Monitor-Manage"**, together with the associated logos and trust marks, remain trademarks of Julius Gromyko. You may freely state that your work is *"Compatible with"*, *"Based on"*, or *"Implements"* the M3 Framework. You may **not** claim to be an *"Official M3 Framework partner"* or *"M3 Certified"* without a separate written agreement.
 
 ### No Warranty & Legal Disclaimer
 
 This document is provided for informational purposes only and does not constitute legal or professional advice. The authors and contributors assume no liability for any errors, omissions, or damages arising from the use of this framework. Implementation of M3 does not guarantee immunity from regulatory fines or cyberattacks.
 
-### Commercial Licensing Inquiries
+### Contact
 
-For partnership opportunities, accreditation, or commercial licensing, please contact:  
-license@m3framework.org
+Partnership opportunities, questions, or anything else:  
+hello@m3framework.org
 
 ---
 
@@ -49,6 +57,7 @@ license@m3framework.org
 | 0.1 Draft | Iulii Gromyko | 11 November 2025 |
 | 0.9 Release candidate | Iulii Gromyko | 18 December 2025 |
 | 1.0 Release | Iulii Gromyko | 24 December 2025 |
+| 1.1 Release | Iulii Gromyko | 20 May 2026 |
 
 ---
 
@@ -215,4 +224,4 @@ Consultants and independent implementors can "Become an M3 Implementation Partne
 
 ---
 
-© 2025 Iulii Gromyko. All rights reserved.
+© 2025-2026 Iulii Gromyko. Released as open source under CC BY 4.0 (standard) and Apache 2.0 (code/data).
